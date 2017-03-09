@@ -1,0 +1,1798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a8cfd7a-29f5-4eac-9331-27e0caecea5f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="ble_payload_parser" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+            </PATH>
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="BaseDataExtractor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wafel/ble/payloadparser/BaseDataExtractor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-401">
+              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ble_payload_parser" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="ble_payload_parser" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'ble_payload_parser'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'ble_payload_parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'ble_payload_parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'ble_payload_parser'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'ble_payload_parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'ble_payload_parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'ble_payload_parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'ble_payload_parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/DEVELOPMENT/BPS/bps-data-service" value="11721632304000" />
+        <entry key="$USER_HOME$/DEVELOPMENT/BPS/bps-data-service2" value="2943743666000" />
+        <entry key="$USER_HOME$/DEVELOPMENT/BPS/businessplanningsystem" value="45421324031000" />
+        <entry key="$USER_HOME$/DEVELOPMENT/CLASSIC/PandaSSO" value="2974501738000" />
+        <entry key="$USER_HOME$/DEVELOPMENT/CLASSIC/UnionJack" value="7421146621000" />
+        <entry key="$USER_HOME$/DEVELOPMENT/CLASSIC/hyperion" value="2961192403000" />
+        <entry key="$USER_HOME$/DEVELOPMENT/CLASSIC/tartarus" value="5917153116000" />
+        <entry key="$USER_HOME$/DEVELOPMENT/CLASSIC/tasks-service" value="2968618189000" />
+        <entry key="$USER_HOME$/DEVELOPMENT/SANDBOX/roomserver" value="2959599918000" />
+        <entry key="$USER_HOME$/LEARN/git-sandbox" value="2964610652000" />
+        <entry key="$PROJECT_DIR$" value="2978126879000" />
+        <entry key="$USER_HOME$/bps-data-service" value="11721609768000" />
+        <entry key="$USER_HOME$/businessplanningsystem" value="45413853682000" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="ble_payload_parser" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/task-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-base-services-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-base-services-groovy-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-cli-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-core-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-docs-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-installation-beacon-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-jvm-services-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-launcher-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-logging-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-messaging-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-model-core-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-model-groovy-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-native-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-open-api-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-process-services-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-resources-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-script-kotlin-0.3.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-tooling-api-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-ui-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-wrapper-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/groovy-all-2.4.7.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-announce-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-antlr-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-build-comparison-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-build-init-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-code-quality-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-composite-builds-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-dependency-management-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-diagnostics-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-ear-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-ide-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-ide-native-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-ide-play-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-ivy-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-jacoco-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-javascript-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-jetty-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-language-groovy-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-language-java-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-language-jvm-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-language-native-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-language-scala-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-maven-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-osgi-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-platform-base-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-platform-jvm-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-platform-native-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-platform-play-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-plugin-development-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-plugin-use-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-plugins-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-publish-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-reporting-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-resources-http-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-resources-s3-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-resources-sftp-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-scala-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-signing-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-task-cache-http-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-test-kit-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-testing-base-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-testing-jvm-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-testing-native-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-tooling-api-builders-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/wafel/ble/payloadparser/DataExtractor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wafel/ble/payloadparser/StringDataExtractor.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wafel/ble/payloadparser/ShortDataExtractorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wafel/ble/payloadparser/ShortDataExtractor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wafel/ble/payloadparser/DataExtractorsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wafel/ble/payloadparser/BaseDataExtractor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wafel/ble/payloadparser/IntDataExtractor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wafel/ble/payloadparser/FloatDataExtractor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wafel/ble/payloadparser/DataExtractors.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="23" />
+    <option name="width" value="1436" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ble_payload_parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ble_payload_parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ble_payload_parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ble_payload_parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ble_payload_parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ble_payload_parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payloadparser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataExtractorsTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ClassTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ble_payload_parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ble_payload_parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ble_payload_parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ble_payload_parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payloadparser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.wafel.ble.payloadparser" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in ble_payload_parser_test">
+    <configuration default="false" name="DataExtractorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wafel.ble.payloadparser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ble_payload_parser_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.wafel.ble.payloadparser" />
+      <option name="MAIN_CLASS_NAME" value="com.wafel.ble.payloadparser.DataExtractorsTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="DataExtractorsTest.shouldReturnZeroIfPayloadIsToShortToHaveVoltageData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wafel.ble.payloadparser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ble_payload_parser_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.wafel.ble.payloadparser" />
+      <option name="MAIN_CLASS_NAME" value="com.wafel.ble.payloadparser.DataExtractorsTest" />
+      <option name="METHOD_NAME" value="shouldReturnZeroIfPayloadIsToShortToHaveVoltageData" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="DataExtractorsTest.shouldReturnValidVoltageWhenValueIsStoredOnLessSignificantBitOnly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wafel.ble.payloadparser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ble_payload_parser_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.wafel.ble.payloadparser" />
+      <option name="MAIN_CLASS_NAME" value="com.wafel.ble.payloadparser.DataExtractorsTest" />
+      <option name="METHOD_NAME" value="shouldReturnValidVoltageWhenValueIsStoredOnLessSignificantBitOnly" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="DataExtractorsTest.shouldReturnValidVoltageWhenValueIsStoredOnMostSignificantBitOnly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wafel.ble.payloadparser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ble_payload_parser_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.wafel.ble.payloadparser" />
+      <option name="MAIN_CLASS_NAME" value="com.wafel.ble.payloadparser.DataExtractorsTest" />
+      <option name="METHOD_NAME" value="shouldReturnValidVoltageWhenValueIsStoredOnMostSignificantBitOnly" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="All in ble_payload_parser_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="ble_payload_parser_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ble_payload_parser" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.DataExtractorsTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.DataExtractorsTest.shouldReturnZeroIfPayloadIsToShortToHaveVoltageData" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.DataExtractorsTest.shouldReturnValidVoltageWhenValueIsStoredOnLessSignificantBitOnly" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.DataExtractorsTest.shouldReturnValidVoltageWhenValueIsStoredOnMostSignificantBitOnly" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.All in ble_payload_parser_test" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.All in ble_payload_parser_test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.DataExtractorsTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.DataExtractorsTest.shouldReturnValidVoltageWhenValueIsStoredOnMostSignificantBitOnly" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.DataExtractorsTest.shouldReturnValidVoltageWhenValueIsStoredOnLessSignificantBitOnly" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.DataExtractorsTest.shouldReturnZeroIfPayloadIsToShortToHaveVoltageData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a8cfd7a-29f5-4eac-9331-27e0caecea5f" name="Default" comment="" />
+      <created>1489062888666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489062888666</updated>
+      <workItem from="1489062893058" duration="10043000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_ble_payload_parser_test - 2017.03.09 at 20h 03m 31s.xml">
+      <configuration name="All in ble_payload_parser_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataExtractorsTest - 2017.03.09 at 16h 01m 42s.xml">
+      <configuration name="DataExtractorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataExtractorsTest - 2017.03.09 at 16h 01m 47s.xml">
+      <configuration name="DataExtractorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataExtractorsTest - 2017.03.09 at 16h 02m 44s.xml">
+      <configuration name="DataExtractorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataExtractorsTest - 2017.03.09 at 16h 02m 52s.xml">
+      <configuration name="DataExtractorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataExtractorsTest - 2017.03.09 at 16h 02m 57s.xml">
+      <configuration name="DataExtractorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataExtractorsTest - 2017.03.09 at 16h 06m 11s.xml">
+      <configuration name="DataExtractorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataExtractorsTest - 2017.03.09 at 16h 06m 53s.xml">
+      <configuration name="DataExtractorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataExtractorsTest - 2017.03.09 at 16h 07m 03s.xml">
+      <configuration name="DataExtractorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataExtractorsTest - 2017.03.09 at 16h 08m 01s.xml">
+      <configuration name="DataExtractorsTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10043000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="23" width="1436" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="News Feed" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39897698" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Floobits" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964131" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Reviews" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998565" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wafel/ble/payloadparser/BaseDataExtractor.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wafel/ble/payloadparser/BaseDataExtractor.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="20" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <marker date="1489063988000" expanded="true" signature="104:110" ph="{" />
+            <marker date="1489063988000" expanded="true" signature="124:126" ph="}" />
+            <marker date="1489063988000" expanded="true" signature="141:253" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wafel/ble/payloadparser/ShortDataExtractorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="494" column="50" lean-forward="false" selection-start-line="494" selection-start-column="44" selection-end-line="494" selection-end-column="50" />
+          <folding>
+            <marker date="1459485746000" expanded="false" signature="0:215" ph="/.../" />
+            <marker date="1459485746000" expanded="false" signature="243:880" ph="..." />
+            <marker date="1459485746000" expanded="true" signature="882:1365" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="1782:1816" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="1822:1868" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="1890:1897" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="1903:2150" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="2203:3286" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="3340:3968" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="4136:4829" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="4875:4921" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="4927:5613" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="5661:5709" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="5715:6426" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="6474:6522" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="6577:6821" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="6859:7063" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="7069:8022" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="8087:8157" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="8193:8351" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="8527:9565" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="9637:9800" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="9888:11197" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="9979:10063" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="10272:10855" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="10929:11156" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="10967:11142" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="11203:11510" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="11565:11576" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="11592:11598" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="11604:12319" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="12376:14393" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="14441:19378" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="19569:19951" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="20014:21040" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="21155:25890" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="25936:26093" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="26099:26523" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="26564:26575" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="26596:26602" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="26650:27627" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="27683:27959" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="27965:29250" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="29300:29498" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="29504:30756" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="30818:31021" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="31027:32420" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="32484:32775" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="32781:34056" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="34108:34339" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="34386:34605" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="34611:37016" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="37062:37276" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="37283:39069" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="39126:39332" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="39338:40130" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="40170:40181" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="40215:40221" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="40227:40888" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="40916:40927" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="40953:40959" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="40965:41738" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="41779:41790" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="41829:41835" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="41841:43002" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="43076:43087" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="43122:43128" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="43134:44903" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="44969:44980" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="45046:45052" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="45058:46677" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="46750:46838" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="46844:47336" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="47406:47477" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="47558:47838" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="47845:47929" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="47978:51298" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="47989:48543" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="48644:49486" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="50077:50208" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="50355:50621" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="50678:50804" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="50975:51262" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="51344:53703" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="51481:53695" ph="{...}" />
+            <marker date="1459485746000" expanded="false" signature="51558:51577" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="51608:51622" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="51732:51813" ph="{...}" />
+            <marker date="1459485746000" expanded="false" signature="51881:51900" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="51933:51947" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="52053:52125" ph="{...}" />
+            <marker date="1459485746000" expanded="false" signature="52190:52209" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="52242:52256" ph=" }" />
+            <marker date="1459485746000" expanded="false" signature="52325:52344" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="52381:52395" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="52477:52567" ph="{...}" />
+            <marker date="1459485746000" expanded="false" signature="52669:52688" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="52726:52740" ph=" }" />
+            <marker date="1459485746000" expanded="false" signature="52801:52820" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="52835:52849" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="52956:53041" ph="{...}" />
+            <marker date="1459485746000" expanded="false" signature="53096:53115" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="53145:53159" ph=" }" />
+            <marker date="1459485746000" expanded="false" signature="53237:53256" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="53289:53303" ph=" }" />
+            <marker date="1459485746000" expanded="false" signature="53359:53378" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="53409:53423" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="53510:53573" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="53640:53685" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="3002" column="23" lean-forward="false" selection-start-line="3002" selection-start-column="23" selection-end-line="3002" selection-end-column="23" />
+          <folding>
+            <marker date="1459485746000" expanded="false" signature="0:290" ph="/.../" />
+            <marker date="1459485746000" expanded="false" signature="319:598" ph="..." />
+            <marker date="1459485746000" expanded="true" signature="600:4653" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="4734:5035" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="5063:5540" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="5567:5736" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="5743:6010" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="6058:6366" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="6415:6711" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="6763:7209" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="7267:7357" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="7410:7514" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="7617:7761" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="7840:8102" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="8163:8485" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="8547:8785" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="8854:9092" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="9161:9405" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="9465:9839" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="9896:10334" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="10412:10683" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="10771:11217" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="11252:11649" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="11655:11948" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="11983:12386" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="12392:13297" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="13350:13835" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="13841:14097" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="14150:14634" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="14640:15524" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="15570:18374" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="16927:17039" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="18571:20006" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="20242:20694" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="21245:21935" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="21941:22554" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="22588:22599" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="22613:22619" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="22625:23245" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="23292:23303" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="23337:23343" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="23407:23910" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="23916:24909" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="24974:25337" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="25722:26338" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="26409:26696" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="26702:26942" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="27026:28388" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="28520:28772" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="28856:29705" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="29710:30294" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="30337:32380" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="32438:32651" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="32657:33329" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="33389:34336" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="33488:33704" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="34342:34527" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="34568:34946" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="34952:35030" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="35088:36617" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="36704:37558" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="37564:37874" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="37941:38877" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="38883:39097" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="39142:39319" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="39325:39439" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="39493:39693" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="39699:39912" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="39943:40079" ph="{...}" />
+            <marker date="1459485746000" expanded="false" signature="40121:40132" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="40207:40213" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="40249:40632" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="40680:41020" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="41026:41117" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="41151:41533" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="41539:41760" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="41809:41820" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="41887:41893" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="41917:41990" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="42194:42407" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="42468:42530" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="42580:42650" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="42720:43487" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="43493:43568" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="43647:43721" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="43780:43844" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="43904:43967" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="44037:44111" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="44201:44375" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="44418:44954" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="44960:45104" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="45134:45667" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="45673:45914" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="45963:47444" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="47450:47623" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="47671:48979" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="49039:50211" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="50217:50495" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="50551:51524" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="51530:51711" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="51759:52303" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="52309:52565" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="52625:53463" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="53469:53764" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="53812:54906" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="54978:55690" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="55696:55843" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="55876:57194" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="57200:57365" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="57445:58359" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="58365:59195" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="59272:60248" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="59457:59558" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="60254:61805" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="61882:64151" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="62223:62367" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="63142:63538" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="64158:64803" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="64931:65901" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="65501:65626" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="65907:66301" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="66342:67404" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="66749:66945" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="67039:67143" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="67410:67566" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="67606:67873" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="67879:68054" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="68094:68402" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="68425:68554" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="68587:69054" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="69060:69205" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="69276:71529" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="71535:71866" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="71908:72327" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="72333:72689" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="72731:74439" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="72983:73103" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="73564:73966" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="74462:74706" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="74752:75002" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="75008:75378" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="75430:75711" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="75717:76214" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="76274:76548" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="76554:76574" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="76640:77071" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="77077:77364" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="77413:77669" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="77675:77695" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="77750:78000" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="78006:78157" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="78218:78229" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="78278:78284" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="78290:78440" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="78504:78515" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="78564:78570" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="78576:78782" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="78858:79253" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="79259:79697" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="79738:84045" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="79984:80231" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="81347:81556" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="81625:81766" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="82984:83186" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="83664:83757" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="84051:84353" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="84396:84738" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="84744:84822" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="84860:84871" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="84915:84921" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="84927:85082" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="85143:85974" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="86109:86309" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="86443:86706" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="86712:86850" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="86904:87014" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="87020:87160" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="87188:87199" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="87243:87249" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="87255:87362" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="87393:87404" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="87450:87456" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="87462:87639" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="87663:87674" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="87693:87699" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="87743:88086" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="88127:88350" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="88356:88860" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="88925:91663" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="91817:91933" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="91995:100108" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="100114:100263" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="100339:100798" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="101024:101286" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="101292:101366" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="101422:101650" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="101656:101742" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="101814:102197" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="102203:102304" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="102369:102830" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="102836:102920" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="102980:103665" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="103671:103809" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="103845:104314" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="104320:104713" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="104761:105363" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="105394:105743" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="105783:106176" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="106001:106121" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="106182:106552" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="106606:107396" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="107402:107780" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="107821:108215" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="108015:108136" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="108221:108506" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="108552:109932" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="109969:110224" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="110257:110539" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="110582:110850" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="110856:111137" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="111179:111447" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="111453:111745" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="111788:112056" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="112062:112271" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="112300:112483" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="112489:112940" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="112986:113255" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="113292:113597" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="113632:113783" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="113789:114086" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="114123:114503" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="114509:114820" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="114859:115251" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="115257:115565" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="115603:115983" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="115989:116353" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="116387:116927" ph="{...}" />
+            <marker date="1459485746000" expanded="false" signature="116397:116429" ph="/deprecation/" />
+            <marker date="1459485746000" expanded="true" signature="116971:117455" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="117483:118405" ph="{...}" />
+            <marker date="1459485746000" expanded="false" signature="117493:117525" ph="/deprecation/" />
+            <marker date="1459485746000" expanded="true" signature="118411:118781" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="118808:119578" ph="{...}" />
+            <marker date="1459485746000" expanded="false" signature="118818:118850" ph="/deprecation/" />
+            <marker date="1459485746000" expanded="true" signature="119610:120306" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="120357:120627" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="120663:121339" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="121381:121708" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="121714:122097" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="122145:122575" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="122581:122704" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="122746:123740" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="123746:124052" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="124089:124646" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="124652:124951" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="124993:125004" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="125045:125051" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="125057:125346" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="125388:125399" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="125440:125446" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="125475:125589" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="125616:125794" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="125800:126615" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="126654:127364" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="126967:127106" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="127370:127442" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="127487:129143" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="129149:129700" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="129822:131198" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="130094:130200" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="130558:130750" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="131204:131452" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="131532:132194" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="132313:132504" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="132510:133057" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="133086:133097" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="133117:133123" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="133129:133816" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="133849:134318" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="134324:134982" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="135009:135091" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="135097:135756" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="135785:135939" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="135945:136656" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="136687:139525" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="137703:137840" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="139531:140247" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="140280:143387" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="141306:141444" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="143393:143481" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="143539:143769" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="143775:143916" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="143981:144229" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="144235:144323" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="144381:145105" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="145111:145275" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="145324:146814" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="146820:146983" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="147031:147871" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="150859:150994" ph="/**...*/" />
+            <marker date="1459485746000" expanded="false" signature="151022:151033" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="151064:151070" ph=" }" />
+            <marker date="1459485746000" expanded="false" signature="151124:151135" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="151161:151167" ph=" }" />
+            <marker date="1459485746000" expanded="false" signature="151232:151243" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="151270:151276" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="151282:151536" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="151567:151823" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="151829:152073" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="152111:152557" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="152563:152625" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="152703:153292" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="153737:154371" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="154488:156335" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="156437:157300" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="156600:157033" ph="{...}" />
+            <marker date="1459485746000" expanded="false" signature="157087:157102" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="157148:157158" ph=" }" />
+            <marker date="1459485746000" expanded="false" signature="157218:157233" ph=" { " />
+            <marker date="1459485746000" expanded="false" signature="157284:157294" ph=" }" />
+            <marker date="1459485746000" expanded="true" signature="157306:157616" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="157687:158254" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="157902:158045" ph="//..." />
+            <marker date="1459485746000" expanded="true" signature="158260:158322" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="158362:158962" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="158968:159462" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="159496:159673" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="159679:160170" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="160202:160377" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="160383:160882" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="160918:161202" ph="{...}" />
+            <marker date="1459485746000" expanded="true" signature="161208:161702" ph="/**...*/" />
+            <marker date="1459485746000" expanded="true" signature="161736:162016" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wafel/ble/payloadparser/DataExtractorsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="55" column="24" lean-forward="false" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+          <folding>
+            <marker date="1489072080000" expanded="true" signature="38:117" ph="..." />
+            <marker date="1489072080000" expanded="false" signature="45:117" ph="..." />
+            <marker date="1489072080000" expanded="true" signature="532:664" ph="{...}" />
+            <marker date="1489072080000" expanded="true" signature="740:827" ph="{...}" />
+            <marker date="1489072080000" expanded="true" signature="909:1004" ph="{...}" />
+            <marker date="1489072080000" expanded="true" signature="1100:1307" ph="{...}" />
+            <marker date="1489072080000" expanded="true" signature="1385:1493" ph="{...}" />
+            <marker date="1489072080000" expanded="true" signature="1589:1798" ph="{...}" />
+            <marker date="1489072080000" expanded="true" signature="1876:1986" ph="{...}" />
+            <marker date="1489072080000" expanded="true" signature="2068:2256" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wafel/ble/payloadparser/ShortDataExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <marker date="1489065494000" expanded="true" signature="210:267" ph="{...}" />
+            <marker date="1489065494000" expanded="false" signature="334:345" ph=" { " />
+            <marker date="1489065494000" expanded="false" signature="386:392" ph=" }" />
+            <marker date="1489065494000" expanded="false" signature="442:453" ph=" { " />
+            <marker date="1489065494000" expanded="false" signature="462:468" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wafel/ble/payloadparser/IntDataExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <marker date="1489087020000" expanded="true" signature="67:176" ph="//..." />
+            <marker date="1489087020000" expanded="false" signature="317:328" ph=" { " />
+            <marker date="1489087020000" expanded="false" signature="369:375" ph=" }" />
+            <marker date="1489087020000" expanded="false" signature="444:455" ph=" { " />
+            <marker date="1489087020000" expanded="false" signature="494:500" ph=" }" />
+            <marker date="1489087020000" expanded="false" signature="552:563" ph=" { " />
+            <marker date="1489087020000" expanded="false" signature="572:578" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wafel/ble/payloadparser/FloatDataExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <marker date="1489087020000" expanded="true" signature="67:176" ph="//..." />
+            <marker date="1489087020000" expanded="true" signature="321:378" ph="{...}" />
+            <marker date="1489087020000" expanded="false" signature="445:456" ph=" { " />
+            <marker date="1489087020000" expanded="false" signature="497:503" ph=" }" />
+            <marker date="1489087020000" expanded="false" signature="553:564" ph=" { " />
+            <marker date="1489087020000" expanded="false" signature="576:582" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wafel/ble/payloadparser/DataExtractors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <marker date="1489087020000" expanded="true" signature="106:151" ph="{...}" />
+            <marker date="1489087020000" expanded="true" signature="257:448" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wafel/ble/payloadparser/BaseDataExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-401">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
